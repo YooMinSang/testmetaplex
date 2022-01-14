@@ -184,3 +184,4 @@ solana airdrop 4 NEW_WALLET_ADDRESS
 ```
 # soltest
 # soltest
+# my-metaplex
